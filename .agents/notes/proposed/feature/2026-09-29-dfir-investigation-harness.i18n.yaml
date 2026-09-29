@@ -1,0 +1,46 @@
+# Bilingual-pair consistency record for 2026-09-29-dfir-investigation-harness.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write .agents/notes/proposed/feature/2026-09-29-dfir-investigation-harness.md
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry:
+  en: 6b2fb6b8a7ee8903
+  zh: b13ad12388a6bf3a
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/problem:
+  en: ed07c1dfb7697178
+  zh: 3c1b52132cce34a8
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal:
+  en: 7ea058b802bca4c7
+  zh: 0c2bf2f278ce7030
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/profile-and-bundle:
+  en: b48c927a9b9daee2
+  zh: db5f40b52fa34621
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/investigation-domain-packages:
+  en: 9646600c747a3cb9
+  zh: 0a44b07c2d9bc2fe
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/forensic-safe-tool-policy:
+  en: c1782fe22e2025e2
+  zh: 7bb5b7219cf118f5
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/chain-of-custody:
+  en: 068f2d5cb3c7e89d
+  zh: bc863d04691365d2
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/investigation-methods:
+  en: d58dbaeaa3098ea0
+  zh: 87a20f9031abbe8f
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/china-hosted-dependency-removal:
+  en: ece6b43d19390d79
+  zh: a51fca66fae0812d
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/telemetry-removal:
+  en: ef6b71bcadcc30d4
+  zh: 4a2446ebdeb8f223
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/proposal/compatibility:
+  en: 7a331cbe698b6527
+  zh: 9802d6953a8f77ed
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/alternatives-considered:
+  en: 3354fe73c3bbc92f
+  zh: 79c36878ae9b324a
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/acceptance-criteria:
+  en: f6ae6b3385fb6cc0
+  zh: bd7cc01dce880ec3
+/agent-note-dfir-investigation-harness-without-china-hosted-services-or-telemetry/risks:
+  en: 31c57a196709346f
+  zh: c5b35647352d1cd4
